@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entregable 3", "Entregable 3.csproj", "{DFDA5E39-CEEE-4B7C-A05C-109310DEB856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDA5E39-CEEE-4B7C-A05C-109310DEB856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDA5E39-CEEE-4B7C-A05C-109310DEB856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDA5E39-CEEE-4B7C-A05C-109310DEB856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDA5E39-CEEE-4B7C-A05C-109310DEB856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD933A4-9A02-4AFA-A8F0-2B62082A3331}
+	EndGlobalSection
+EndGlobal

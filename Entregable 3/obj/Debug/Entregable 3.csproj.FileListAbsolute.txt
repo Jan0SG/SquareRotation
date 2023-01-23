@@ -1,0 +1,11 @@
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\obj\Debug\Entregable 3.csproj.AssemblyReference.cache
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\obj\Debug\Entregable 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\obj\Debug\Entregable_3.Form1.resources
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\obj\Debug\Entregable_3.Properties.Resources.resources
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\obj\Debug\Entregable 3.csproj.GenerateResource.cache
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\obj\Debug\Entregable 3.csproj.CoreCompileInputs.cache
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\bin\Debug\Entregable 3.exe.config
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\bin\Debug\Entregable 3.exe
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\bin\Debug\Entregable 3.pdb
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\obj\Debug\Entregable 3.exe
+C:\Users\erizo\Documents\Lab Videojuegos y Graficacion\Entregable 3\obj\Debug\Entregable 3.pdb
